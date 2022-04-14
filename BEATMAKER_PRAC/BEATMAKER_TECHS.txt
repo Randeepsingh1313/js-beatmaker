@@ -1,0 +1,12 @@
+TECHOLOGIES USED :
+
+HTML
+CSS
+Javascript CLASSES
+DOM Manipulation
+Event Handling
+this KEYWORD
+
+ES6/ES2015 Arrow functions
+Array Functions
+High order Functions( forEach )
